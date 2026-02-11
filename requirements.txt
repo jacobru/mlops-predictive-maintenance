@@ -1,0 +1,12 @@
+# Machine Learning
+pandas
+scikit-Learn
+xgboost
+
+
+# ML0ps & Plumbing
+mlflow      # Experiment Tracking
+dvc         # Data versioning
+fastapi     # API serving
+uvicorn     # API server
+pytest      # Testing for CI/CD
