@@ -1,14 +1,14 @@
-# 🛠️ End-to-End Predictive Maintenance MLOps Pipeline
+# End-to-End Predictive Maintenance MLOps Pipeline
 
 This project demonstrates a professional-grade MLOps workflow for predicting machine failures. It moves beyond a simple notebook, implementing automated data ingestion, versioning, experiment tracking, and containerized deployment.
 
 
 
-## 🚀 Project Overview
+## Project Overview
 * **Problem:** Predict machine failure based on sensor data (Temperature, Torque, Tool Wear).
 * **Goal:** Create a production-ready API that serves a trained XGBoost model.
 
-## 🏗️ Technical Stack
+## Technical Stack
 * **Data Versioning:** [DVC](https://dvc.org/) (Data Version Control)
 * **Experiment Tracking:** [MLflow](https://mlflow.org/)
 * **Model:** XGBoost Classifier
